@@ -1,0 +1,18 @@
+//
+// Prefix header for all source files of the 'Template' target in the 'Template' project
+//
+
+#import <Availability.h>
+
+#ifdef __OBJC__
+    #define TARGET_IOS 1
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #include "Header.h"
+#endif
+
+// compilator settings
+#define ANALYTICS_URL @"aHR0cHM6Ly93d3cua2luZXRpc2UuY29tL2FwcC9hdXRoL2dvb2dsZS1hbmFseXRpY3M/YXBwPUxyeHNGQXhpUlJ6VUtVZFpPZFF3T205WDdGT3I1Y1VtZHpKODlna3pRQlJrRW1nbXg3eVFLelVpTFVWcjNUdkJNQ3oyVDNiYTdSYUZwUTNaaE53aGpnJTNEJTNE"
+#define ANALYTICS_APP_TRACKING_ID @""
+#define PUSHER_URL @"http://push.funandmobile.com/api/register"
+#define PUSHER_ID @"test-build"

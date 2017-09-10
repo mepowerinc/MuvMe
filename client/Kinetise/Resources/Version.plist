@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>code_date</key>
+	<string>2017.09.10</string>
+	<key>code_version</key>
+	<string>2.23.1407</string>
+	<key>compiler_date</key>
+	<string>2014.01.01</string>
+	<key>compiler_version</key>
+	<string>1.0.0</string>
+	<key>parser_date</key>
+	<string>2014.01.01</string>
+	<key>parser_version</key>
+	<string>1.0.0</string>
+</dict>
+</plist>
